@@ -1,0 +1,56 @@
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+D:\Giao trinh\GIS\Baitap\BaiGiang_Chuong6_2\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+C:\Users\Student\Downloads\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+C:\Users\Student\Downloads\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+C:\Users\Student\Downloads\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+D:\My Geo\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+D:\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Form2.resources
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.MainForm.resources
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.Properties.Resources.resources
+F:\pck\CTU\TN230\DuLieuChoChuongTrinh\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb

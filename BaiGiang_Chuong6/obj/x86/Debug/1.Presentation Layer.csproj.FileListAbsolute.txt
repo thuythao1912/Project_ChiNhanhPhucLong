@@ -1,0 +1,63 @@
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\1.Presentation Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiTietChiNhanh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmThemDanhGia.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.MainForm.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmDangNhap.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmMain.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmTaiKhoan.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmThucUong.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.Properties.Resources.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\1.Presentation Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanhTheoTinh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanhTheoVung.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmHinhAnh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ThucUong.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ChiNhanhTheoVung.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ChiNhanhToanQuoc.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.exe
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\BaiGiang_Chuong6.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.Video.DirectShow.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.Video.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.presentation.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.xml
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.Video.xml
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\AForge.Video.DirectShow.xml
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.xml
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.presentation.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\zxing.presentation.xml
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\1.Presentation Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanhTheoTinh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanhTheoVung.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiTietChiNhanh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmThemDanhGia.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.MainForm.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmChiNhanh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmDangNhap.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmHinhAnh.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmMain.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmTaiKhoan.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmThucUong.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ChiNhanhTheoVung.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ChiNhanhToanQuoc.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.frmTK_ThucUong.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\ChiNhanhPhucLong.Properties.Resources.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\1.Presentation Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\BaiGiang_Chuong6\obj\x86\Debug\_1.Presentation_Layer.frmLoginQR.resources

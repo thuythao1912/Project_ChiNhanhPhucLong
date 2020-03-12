@@ -1,0 +1,16 @@
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.dll.config
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\_3.Data_Access_Layer.Properties.Resources.resources
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.dll.config
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\_3.Data_Access_Layer.Properties.Resources.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\3.Data Access Layer\obj\Debug\3.Data Access Layer.pdb

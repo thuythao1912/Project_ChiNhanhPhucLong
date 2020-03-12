@@ -1,0 +1,30 @@
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll.config
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\_2.Business_Logic_Layer.Properties.Resources.resources
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll.config
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\_2.Business_Logic_Layer.Properties.Resources.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll.config
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\2.Business Logic Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\bin\Debug\3.Data Access Layer.pdb
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csprojResolveAssemblyReference.cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\_2.Business_Logic_Layer.Properties.Resources.resources
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.csproj.GenerateResource.Cache
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.dll
+F:\pck\CTU\TN230\Project_ChiNhanhPhucLong_1\Project_ChiNhanhPhucLong\2.Business Logic Layer\obj\Debug\2.Business Logic Layer.pdb
